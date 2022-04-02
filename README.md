@@ -41,7 +41,7 @@ print(anthro.get_similars('trump', level=1, distance=5, strict=True))
 
 ---
 
-If you use the ``ANTHRO_Data_V1.0`` dictionary as baseline for comparison, please note that results reported in our paper is based on a richer dictionary, which was extracted from some private datasets, and cannot be publicly released.
+If you use the ``ANTHRO_Data_V1.0`` dictionary as baseline for comparison, please note that results reported in our paper is based on a richer dictionary, which was extracted from a corpus that include some private datasets, and cannot be publicly released.
 
 ---
 Please cite our paper with the following Bibtex:
