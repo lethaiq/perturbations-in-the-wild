@@ -41,12 +41,14 @@ print(anthro.get_similars('trump', level=1, distance=5, strict=True))
 ---
 
 If you use the ``ANTHRO_Data_V1.0`` dictionary as baseline for comparison, please note that results reported in our paper is based on a richer dictionary, which was extracted from some private datasets, and cannot be publicly released.
+
 ---
 Please cite our paper with the following Bibtex:
-
+```
 @article{le2022perturbations,
   title={Perturbations in the Wild: Leveraging Human-Written Text Perturbations for Realistic Adversarial Attack and Defense},
   author={Le, Thai and Lee, Jooyoung and Yen, Kevin and Hu, Yifan and Lee, Dongwon},
   journal={60th Annual Meeting of the Association for Computational Linguistics (ACL)},
   year={2022}
 }
+```
