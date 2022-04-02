@@ -1,4 +1,5 @@
 # ANTHRO: Perturbations in the Wild
+![Alt text](https://github.com/lethaiq/perturbations-in-the-wild/blob/main/logo.png)
 Repository of the paper "Perturbations in the Wild: Leveraging Human-Written Text Perturbations for Realistic Adversarial Attack and Defense", ACL22 (Findings) [[pdf]](https://arxiv.org/abs/2203.10346)
 
 # Instructions
