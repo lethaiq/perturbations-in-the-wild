@@ -2,6 +2,8 @@
 ![Alt text](https://github.com/lethaiq/perturbations-in-the-wild/blob/main/logo.jpg)
 Repository of the paper "Perturbations in the Wild: Leveraging Human-Written Text Perturbations for Realistic Adversarial Attack and Defense", ACL22 (Findings) [[pdf]](https://arxiv.org/abs/2203.10346)
 
+**DEMO version of ANTHRO is accepted to ICDE 2023, Demo track. Part of the system is accessible via [link](https://lethaiq.github.io/anthro)**
+
 # Instructions
 Please use the ``test.py`` file for instructions.
 
